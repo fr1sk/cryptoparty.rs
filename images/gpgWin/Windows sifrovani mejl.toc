@@ -1,0 +1,13 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Kratak uvod}{2}{section.1}
+\contentsline {section}{\numberline {2}Instalacija Gpg4win programa}{2}{section.2}
+\contentsline {section}{\numberline {3}Instalacija Thunderbird programa}{10}{section.3}
+\contentsline {subsection}{\numberline {3.1}instalacija Enigmail dodatka}{15}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Generisanje GPG klju\v {c}eva}{17}{subsection.3.2}
+\contentsline {section}{\numberline {4}Slanje javnog klju\v {c}a na server javnih klju\v {c}eva}{22}{section.4}
+\contentsline {section}{\numberline {5}Razmena \v {s}ifrovanih poruka}{23}{section.5}
+\contentsline {subsection}{\numberline {5.1}Nabavka javnog klju\v {c}a sagovornika}{23}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Slanje \v {s}ifrovane poruke}{26}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}De\v {s}ifrovanje primljenje \v {s}ifrovane po\v {s}te}{27}{subsection.5.3}
+\contentsline {section}{\numberline {6}Dodatak}{28}{section.6}
+\contentsline {subsection}{\numberline {6.1}Windows Live Mail}{28}{subsection.6.1}
